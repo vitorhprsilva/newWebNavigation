@@ -1,0 +1,4 @@
+/home/vitorhprsilva/Code/build/CMakeFiles/rebuild_cache.dir
+/home/vitorhprsilva/Code/build/CMakeFiles/navegador.dir
+/home/vitorhprsilva/Code/build/CMakeFiles/edit_cache.dir
+/home/vitorhprsilva/Code/build/CMakeFiles/navegador_autogen.dir
